@@ -14,7 +14,7 @@
 </a>
 
 <br><br>
-Hi I'm Raghav Agrawal, a Third Year IT student and a data analyst.I am keen towards Data Science and aspire to grow as Data Science and Big data analyst. Beside this I like writting so, I work as content writter and contribute articles at <a href="https://contribute.geeksforgeeks.org/">@geeksforgeeks</a>
+Hi I'm Raghav Agrawal, a Third Year IT student and a data analyst. I am keen towards Data Science and aspire to grow in field of Data Science and Big data analytics. Apart from this I like technical content writting and I also work as a blogges and have personal blog at <a href="https://rgcrazytech.blogspot.com/">.blogspot.com</a>
 <br><br>
 
 **Talking about Personal Stuffs:**
@@ -22,7 +22,7 @@ Hi I'm Raghav Agrawal, a Third Year IT student and a data analyst.I am keen towa
 
 - 🌱 I’m currently learning **DL** and exploring **best practices for ML & NLP**.
 
-- 💬 Ask me about anything, I am happy to help whatever at my end;
+- 💬 Ask me about anything, I am happy to help what so ever at my end;
 <br>
 
 ### Programming Languages  :rocket:
