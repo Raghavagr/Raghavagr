@@ -50,9 +50,3 @@
 </a>
 
 <br></br>
-## **📊 My Github Stats**
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Raghavagr&show_icons=true&theme=radical" alt="Raghavagr">
-</p>
-
-
